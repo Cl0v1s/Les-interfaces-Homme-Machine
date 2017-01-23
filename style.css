@@ -1,3 +1,38 @@
+img
+{
+	display: block;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+table
+{
+	display: block;
+	position: relative;
+	left: 50%;
+	border-collapse: collapse;
+	
+}
+
+td
+{
+	border: 1px solid #CCC;
+	padding: 5px;
+	text-align: center;
+}
+
+
+
+table tr:nth-child(2n) {background: #CCC}
+table tr:nth-child(2n+1) {background: #FFF}
+
+table tr:first-of-type
+{
+	background: #333333;
+	color: white;
+}
+
 @media print
 {
 @page {

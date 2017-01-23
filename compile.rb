@@ -19,7 +19,44 @@ end
 
 contents = GitHub::Markup.render("README.markdown", contents)
 
-contents = File.read("Parts/start.html") + contents + File.read("Parts/end.html")
+if(File.exist?("Parts/start.html"))
+	contents = File.read("Parts/start.html") + contents
+end 
+
+if(File.exist?("Parts/end.html"))
+	contents = contents + File.read("Parts/end.html")
+end
+
+
+# Processing ^^blah^^
+
+contents = contents.gsub(/\^\^(.*?)\^\^/){|sym|
+	sym = sym.gsub(/\^\^/, "")
+	"<sup>"+sym+"</sup>"
+}
+
+# Processing ,,blah,,
+
+contents = contents.gsub(/,,(.*?),,/){|sym|
+	sym = sym.gsub(/,,/, "")
+	"<sub>"+sym+"</sub>"
+}
+
+# Processing table 
+
+contents  = contents.gsub(/\|-*?\|-*?\|\n?/, "")
+
+contents  = contents.gsub(/\|.*?\|.*?\|/){|sym|
+	sym = sym.gsub(/(\|.+?\|)|(\|?.+?\|)/){|s|
+		"<td>"+s+"</td>"
+	}
+	sym = sym.gsub(/\|/, "")
+	"<tr>"+sym+"</tr>"
+}
+
+contents = contents.gsub(/((<tr>|<thead>)(.*?)(<\/tr>|<\/thead>)\n?)+/m){|sym|
+	"<table>"+sym+"</table>"
+}
 
 # Processing Table of content
 

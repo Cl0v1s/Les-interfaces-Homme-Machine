@@ -12,12 +12,12 @@
 
 ### I. Des origines (présentation du sujet)
 1. Exposé des IHM, problématisation 
-2. Définition de moyens d'interraction historiques. (-8000, 1935)
+2. Définition des interfaces homme-machine
 
 ### II. La science
 ### II. a. La technique et son évolution historique (1935+)
 
-1. Définition de briques de bases des interractions possibles (écran, inputs)
+1. Définition de moyens d'interraction historiques. (-8000, 1935)
 2. L'ère du texte 
 3. Développement des graphismes 
 4. XEROX 
@@ -27,7 +27,7 @@
 
 1. Différentes de la nature des évolutions (incrémentales)
 2. Elements poussants à l'innovation (matérielle, développement des possibilités avec la nature des appareil et leur puissance)
-3. Différentes philosophies (évenementiels, WYSIWYG)
+3. Différentes philosophies (Doug Engelbart : NLS/Augment, évenementiels, WYSIWYG)
 4. Design pattern pour les développeurs 
 
 ### II. b. De la recherche non-technique (titre temporaire)
@@ -51,6 +51,12 @@
 *  https://fr.wikipedia.org/wiki/Utilisabilit%C3%A9
 *  https://fr.wikipedia.org/wiki/Sciences_cognitives
 *  smith, irby, kimball, verplank, harlselm; designing the star user interface (bits n°4 1982 p.242-282)
+*  http://histoire.info.online.fr/gui.html
+*  http://www.physique.usherbrooke.ca/~afaribau/essai/
+*  *https://interstices.info/jcms/c_23015/50-ans-d-interaction-homme-machine-retours-vers-le-futur
+*  https://ihmmedia.wordpress.com/2007/10/04/evolution-des-ihm/
+*  http://www.nigelbevan.com/papers/HCI-Usability_standards.pdf
+*  https://en.wikipedia.org/wiki/Computer_terminal
 
 Voir Laurence Nigay   
 Voir directrice de thèse également (Joelle Coutaz)
