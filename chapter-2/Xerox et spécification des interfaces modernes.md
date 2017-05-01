@@ -86,7 +86,7 @@ Si les interfaces graphiques permettent de présenter à l'utilisateur un enviro
 Lorsque l'utilisateur réalise une combinaison de touches associée à un raccourcis, le système réalise l'action associée auxdit raccourcis. 
 
 
-#### [Les composants graphiques][1]
+#### Les composants graphiques[^1]
 
 Comme indiqué plus haut, le panel d'action offert à l'utilisateur se réalise sur un ensemble de composants, enumérés ci-dessous, ayant chacun un rôle défini. 
 
@@ -178,7 +178,7 @@ Par exemple, lors d'un pointer-et-cliquer sur un fichier, celui-ci est ouvert au
 
 ![Le Mac OS d'Apple et sa métaphore de bureau](https://upload.wikimedia.org/wikipedia/en/5/50/Apple_Macintosh_Desktop.png)
 
-[1]: https://vimeo.com/61556918 "Vidéo “All The Widgets”"
+[^1]: https://vimeo.com/61556918 "Vidéo “All The Widgets”"
 
 
 

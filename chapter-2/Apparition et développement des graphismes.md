@@ -2,7 +2,7 @@
 
 L'apparition et le développement des terminaux informatiques permit, à terme (1960 puis réel développement à partir de 1970), la création de terminaux graphiques, capable de représenter de nouveaux élements visuels, en plus de texte. 
 
-[Ceux-ci reposent initialement sur l'usage d'un écran à tube cathodique, dont la vitesse de rafraichissement permet d'émuler des mouvements ou encore des images persistentes. A noter que c'est cette problématique de vitesse de rafraichissement (et les élements qu'elle soulève) qui est responsable du développement plus tardif des terminaux graphiques et de leur coût initialement plus élevé][1]. 
+Ceux-ci reposent initialement sur l'usage d'un écran à tube cathodique, dont la vitesse de rafraichissement permet d'émuler des mouvements ou encore des images persistentes. A noter que c'est cette problématique de vitesse de rafraichissement (et les élements qu'elle soulève) qui est responsable du développement plus tardif des terminaux graphiques et de leur coût initialement plus élevé[^1]. 
 
 On distingue ces terminaux graphiques en deux catégories, reposant sur deux philisophies distinctes présentant chacune leurs avantages et inconvénients.
 
@@ -37,10 +37,10 @@ En effet, avec son système Sutherland, innove dans le domaine des interfaces ho
 
 L'apparition de ces nouvelles technologies a ouvert la porte à de nombreuses innovations, toutes axées autour du concept d'interface graphique qui peut être défini dès lors comme un 
 
-> [dispositif de dialogue homme-machine, dans lequel les objets à manipuler sont dessinés \[...\] à l'écran de sorte que l'usager peut les utiliser en imitant leur manipulation physique][2]
+> dispositif de dialogue homme-machine, dans lequel les objets à manipuler sont dessinés \[...\] à l'écran de sorte que l'usager peut les utiliser en imitant leur manipulation physique[^2]
 
-[1]: https://en.wikipedia.org/wiki/Computer_terminal#Graphical_terminals "Source: Wikipédia"
-[2]: https://fr.wikipedia.org/wiki/Interface_graphique "Source: Wikipédia"
+[^1]: https://en.wikipedia.org/wiki/Computer_terminal#Graphical_terminals "Source: Wikipédia"
+[^2]: https://fr.wikipedia.org/wiki/Interface_graphique "Source: Wikipédia"
 
 
 

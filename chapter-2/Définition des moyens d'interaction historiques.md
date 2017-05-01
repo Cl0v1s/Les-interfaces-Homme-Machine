@@ -12,7 +12,7 @@ Que ce soit concernant les entrées ou les sorties, l'apparition des machines m�
 
 Une autre révolution dans le dommaine des IHM est relative à l'apparition des machines électro-mécaniques et/ou programmables. En effet en 1890, Herman Hollerith développe une machine capable de lire des cartes préalablement perforées. Ici, l'utilisation de l'éléctricité dans le fonctionnement de la machine permet une abstraction supplémentaire quand à son mécanisme de traitement interne, en rendant la lecture de cartes perforées possible (à noter qu'Hollerith fondera, grâce à son système, la société  qui deviendra IBM).
 
-![Machine de Hollerith](http://www.physique.usherbrooke.ca/~afaribau/essai/hollerithcomplet.jpg)
+![Machine de Hollerith](http://www-03.ibm.com/ibm/history/ibm100/images/icp/I948157I46677K94/us__en_us__ibm100__tabulator__hollerith_machine__620x350.jpg)
 
 Durant la période suivant l'invention des machines éléctro-mécaniques et jusqu'au début des années 60, on ne distinguera pas spécialement d'évolutions majeures concernant les interfaces homme-machines, celles-ci restant limitées à l'usage de manettes, boutons, lampes, cartes perforées ou impressions que ce soit pour transmettres de sorties ou des entrées (même s'il est possible de souligner l'invention et l'usage de l'imprimante, permettant de conserver les résultats du traitement d'une machine).   
 

@@ -2,7 +2,7 @@
 
 Problématique majeure si l'en est, cette difficulté d'interaction en temps réel avec la machine fut résolue avec l'invention et le développement de terminaux. 
 
-Basiquement, un terminal peut-être définit comme un appareil élétronique et éléctro-mécanique utilisé pour transmettre des données vers une machine, et consulter des données depuis ladite [machine][1] (Il est aisé de constater qu'on se rapproche ici fortemment de la définition même de ce qu'est une interface homme-machine).
+Basiquement, un terminal peut-être définit comme un appareil élétronique et éléctro-mécanique utilisé pour transmettre des données vers une machine, et consulter des données depuis ladite machine[^1] (Il est aisé de constater qu'on se rapproche ici fortemment de la définition même de ce qu'est une interface homme-machine).
 
 Les terminaux font leur apparition entre les années 50 et 60, mais sont dans un premier temps peu utilisés car extrêmement lents comparés à l'usage de cartes perforées ou aux autres technologies existantes en générales.  
 En effet, les premiers appareils existants consistent en l'alliance d'une imprimante permettant la sortie d'information et d'un clavier, rendant possible l'entrée de données. Ils étaient donc fortemment limités en terme de vitesse de transmission de l'information notamment par le fait que les informations étaient transmises à l'utilisateur à la vitesse d'impression de l'imprimante (qui n'était pas alors des plus performantes).
@@ -23,7 +23,7 @@ A noter que l'on distingue deux types de terminaux:
 * les terminaux intelligents, qui disposent de leur propre unité logique. 
 * les terminaux légers, qui se connectent à une unité de calcul distante (Le minitel cité plus haut est un parfait exemple de terminal léger). 
 
-[1]: https://en.wikipedia.org/wiki/Computer_terminal "Source: Wikipédia"
+[^1]: https://en.wikipedia.org/wiki/Computer_terminal "Source: Wikipédia"
 
 
 
