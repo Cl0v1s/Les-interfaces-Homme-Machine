@@ -5,9 +5,35 @@
 		<meta charset="utf-8">
 		<meta lang="FR-fr">
 		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="gutenberg.min.css" media="print" charset="utf-8">
+		<link rel="stylesheet" href="themes/book.min.css" media="print" charset="utf-8">
+		<style>
+			h1,h2,h3,h4,h5,h6
+			{
+				text-align: left;
+			}
+
+			h1::before,h2::before,h3::before,h4::before,h5::before,h6::before
+			{
+				display: none;
+			}
+
+			a.img-wrapper
+			{
+				display: block;
+			}
+
+			a.img-wrapper::after
+			{
+				display: block;
+				text-align: center;
+				font-size:12px;
+				content: attr(data-alt);
+			}
+		</style>
 	</head>
 	<body>
 
 	
-	<h1>Table des matières</h1>
+	<h1 class="no-reformat">Table des matières</h1>
 	<tableOfContents></tableOfContents>

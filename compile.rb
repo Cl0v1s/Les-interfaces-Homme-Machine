@@ -14,8 +14,9 @@ contents = ""
 
 pathes.each do |path|
 	contents += File.read(path)
-	contents += "\n<span class='page-break'></span>\n"
+	contents += "\n\n"
 end
+
 
 contents = GitHub::Markup.render("README.markdown", contents)
 
@@ -42,6 +43,20 @@ contents = contents.gsub(/,,(.*?),,/){|sym|
 	"<sub>"+sym+"</sub>"
 }
 
+# Processing img
+
+contents = contents.gsub(/<img(.*?)>/){|sym|
+	alt= /alt="(.*?)"/.match(sym)[1]
+	"<a class='img-wrapper' data-alt=\""+alt+"\">"+sym+"</a>"
+}
+
+# Processing h1
+
+contents = contents.gsub(/<h1>(.*?)<\/h1>/){|sym|
+	sym = sym.gsub(/<h1>/, "")
+	"<h1 class='page-break-before'>"+sym+""
+}
+
 # Processing table 
 
 contents  = contents.gsub(/\|-*?\|-*?\|\n?/, "")
@@ -63,17 +78,16 @@ contents = contents.gsub(/((<tr>|<thead>)(.*?)(<\/tr>|<\/thead>)\n?)+/m){|sym|
 table = "<ul class='toc'>"
 index = 0
 
-contents.scan(/(<h[0-9]>.*?<\/h[0-9]>)/).each do |title| 
-	entry = title.join("").sub("<h1>", "").sub("</h1>", "")
-	table = table + "<li><a href='#"+index.to_s+"'>"+entry+"</a></li>"
-	anchor = title.join("").gsub(/<h[0-9]/){|sym| sym+" id='"+index.to_s+"'"}
-	contents = contents.gsub(title.join(""), anchor)
+contents.scan(/(<(h[1-3])(.*?)>(.*?)<\/h[1-3]>)/).each do |match|
+	#add id to title
+	title = "<"+match[1]+" id='"+index.to_s+"' "+match[2]+">"+match[3]+"</"+match[1]+">"
+	contents = contents.gsub(match[0], title)
+	table = table + "<li><a href='#"+index.to_s+"'>"+match[3]+"</a></li>"
 	index = index + 1
 end
 
 
 table = table + "</ul>"
-table = table + "\n<span class='page-break'></span>\n"
 
 contents = contents.gsub(/<tableOfContents>(.*?)<\/tableOfContents>/m, table)
 
