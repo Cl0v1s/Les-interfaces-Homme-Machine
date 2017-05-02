@@ -2,64 +2,8 @@
 
 ## II.b 1 - Considérations et conséquences relatives à ces évolutions 
 
-D'abord conçu pour répondre à des besoins liés à des usages militaires et scientifiques, l'informatique intéresse de plus en plus à l'aube des années 70-80 les acteurs économiques qui perçoivent les bénéfices dont l'éconpmie peut tirer d'un usage de l'informatique.
 
-En effet, à partir de 1960 et suite aux travaux de Dijsktra, Wirth et d'autres chercheurs, les liens entre informatique et mathématiques sont fortemment développés, entrainant une progression des possibilités de développement, en permettant une plus grande compléxité algorithmique (notamment à travers l'amélioration des langages de programmation).
 
-Ces éléments, associés à des évolutions matérielles (miniaturisation des composants, réduction des coûts), permettent l'application de l'informatique à un plus grand nombre de secteurs (scientifiques, commercial, domestiques).
-
-De fait, l'informatique n'est plus seulement un problème rataché au monde de la recherche scientifique et de son public d'initiés, mais une préoccupation plus globale. 
-
-Aussi, les problématiques liées à la conception d'interfaces homme-machine se développent rapidement.
-
-En effet, il faut rappeler qu'un interface homme-machine prend concrétement la 
-forme du dispositif qui permet à l'utilisateur d'interagir avec l'ordinateur.
-
-Or, avec le changement d'environnement d'opération de la machine (passage du monde militaire/scientifique au monde de l'entreprise), 
-la manière d'utiliser la machine doit évoluer à plusieurs niveaux:
-
-* Le public auquel s'adresse la machine change. On passe en effet d'un milieu où
-l'utilisateur est un initié, qui grâce à un aprentissage plus ou moins important sait comment manipuler celle-ci, à un environnement dans lequel
-la manipulation de la machine est un moyen, sensé être plus productif, de remplir une mission, d'atteindre un objectif.
-
-* Les tâches que doit effectuer la machine changent également. Se contenter de réaliser des calculs et de présenter des résultats n'est plus suffisant.
-L'ensentiel des travaux concernera le traitement de document, le stockage et le traitement d'information.
-
-Comme annoncé plus haut, cette évolution et cette diversification des usages est intimement liée aux évolutions techniques et matérielles. En effet, on se trouve dans une situation de cercle vertueux, 
-Le progrès technique permet une progression des possibilités d'usage, qui attise l'intérêt du monde du privé (entreprise, particuliers) qui encourage la production. Cette hausse de la production va entrainer une baisse de coûts des technologies utilisées (par effet d'économie d'echelle). Baisse des coûts qui entraine le développement d'une meilleur accessibilité financière. 
-
-Cette accessibilité financière, n'aurait pas eu d'effets significatifs si elle n'avait pas été accompagné d'un développement des interfaces homme-machine. 
-
-En effet, comment rendre le produit attrayant pour l'investisseur/utilisateur s'il n'est en mesure de l'utiliser sans une formation longue et coûteuse ? 
-
-(L'histoire et l'échec du Lisa d'Apple, porté par Steeve Jobs illustre parfaitement ce souci de conçevoir une interface attrayante.)
-
-Cette progression de l'importance d'être en mesure de présenter à 
-l'utilisateur l'information de manière claire et [attrayante] soulève un certain 
-nombre de questions. 
-
-En effet, il devient nécessaire de présenter une interface cohérente et claire
-à l'utilisateur et donc, de la réfléchir. 
-
-## II.b 2 - Penser son interface 
-
-Cette nécessité de réfléchir son interface n'apparait cependant brusquement, tandis que la demande se diversifie. 
-
-En effet, on peut noter l'existence du projet NLS/Augment, mené par Douglas Engerlbart au début des années 60.
-
-L'objectif de ce projet était de développer une machine (équipée d'une souris et d'une gestion de fenêtres) permettant de travailler sur de l'hypertexte. 
-
-Fait intéressant, Engelbart basa la conception de cette interface sur la manière dont les enfants aprennent. Ce choix finit par aboutir à la conception d'une interface construite autour d'un mécanisme de coordination oeil-main, réellement plus simple à apréhender que l'habituel ensemble de commandes à mémoriser pour être en mesure d'intéragir avec une machine.
-
-On assiste ainsi ici, au développement d'une interface centrée sur l'accessibilité. L'aprentissage préalable nécessaire à la manipulation de la machine étant de fait moindre (à l'inverse des habituels langages de commandes). Cet objectif ayant ici guidé la conception de l'entiéreté du projet.
-
-Si Engelbart a fait le choix de l'accessibilité, ce n'est en aucun cas le seul élément à prendre en compte dans la réflexion préalable à la conception d'une interface. 
-
-Par exemple, dans certaines situations, la rapidité d'utilisation peut-être plus importante que l'accessibilité. Par exemple, un langage de commande peut présenter l'avantage de permettre une grande rapidité d'utilisation, une fois les commandes mémorisées, à l'inverse d'une interface graphique basée sur le pointage de zones de l'écran.  
-
-Lors de la conception de l'interface il est donc nécessaire de réaliser un certain nombre de choix tournant notamment autour d'un ensemble de caractéristiques  (efficacité/accessibilité/rapidité d'utilisation), et coûts de développement et de recherche.
-
-Nous allons étudier, dans ce qui va suivre un certain nombre de ses caractéristiques à considérer lors de la conception ou de l'évaluation de la performance d'une interface.
 
 ## II.b 3 Accessibilité et design universel 
 

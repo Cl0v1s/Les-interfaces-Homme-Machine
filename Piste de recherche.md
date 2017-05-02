@@ -75,7 +75,11 @@
 * http://popups.ulg.ac.be/2031-4981/index.php?id=1151
 * http://blocnotes.iergo.fr/breve/motsetphrases/efficience/
 * https://fr.wikipedia.org/wiki/Cognitique
-* http://www.erudit.org/revue/rse/2008/v34/n1/019001ar.pdf
+
+
+* http://www.ergolab.net/articles/conception-centree-utilisateur.php
+* https://www.ims-bordeaux.fr/fr/recherche/groupes-recherche/22-cognitique/7-cognitique
+* http://www.info.univ-tours.fr/~antoine/documents_enseignement/IHM_CM_chapII.pdf
 
 Voir Laurence Nigay   
 Voir directrice de thèse également (Joelle Coutaz)
