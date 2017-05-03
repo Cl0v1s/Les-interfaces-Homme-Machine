@@ -20,6 +20,10 @@ A noter que l'organisme de normalisation international ISO dispose d'un groupe d
 D'autre part, il est également important de considérer les connaissances de l'utilisateur concernant l'outil qu'il manipule. Le manque d'information vis à vis de l'interface pouvant ralentir le manipulateur dans sa tâche ou tout simplement l'empêcher de l'atteindre. 
  Il s'agit donc ici, en vue de rendre l'interface accessible de simplifier sa courbe d'apprentissage. C'est à dire de jouer sur l'intuition de l'utilisateur et son accumulation de connaissances, l'interface devant être conçue de sorte que l'utilisateur prennent rapidement (immédiatement) conscience de l'ensemble des fonctionnalités que lui propose le logiciel et de comment il peut y accéder,. On parle de l'apprenabilité de l'interface. C'est à dire de la facilité avec laquelle l'utilisateur va être en mesure de prendre en main le logiciel et de découvrir ses fonctionnalités[^2].
  
+ On pourrait également insister sur cette notion d'intuition en l'illustrant avec les concepts de charge mentale (cognitive) et d'obstacle cognitif.
+ La charge mentale correspond à l'ensemble des éléments (ici de l'interface) ayant un impact sur la capacité de traitement du cerveau humain. Il s'agit ici de l'alléger au maximum, en ne surchargeant pas l'utilisateur d'informations difficiles à traiter. 
+ De même, la notion d'obstacle cognitique est importante. Un obstacle cognitique est un élément abstrait tel qu'un problème culturel, lié à un manque de connaissance ou une mauvaise compréhension de l'information qui empêche une bonne analyse de l'information présentée par l'interface. Aussi il est bon de les repérer et de les éliminer/réduire au maximum.[^3]
+  
  Dans les faits, une interfaces présente différents niveaux d'accessibilité en fonction des possibilités d'interaction qu'elle offre à l'utilisateur handicapé (au sens commun) ou non. 
 
 De manière plus générale, cette idée de concevoir des interfaces accessibles pour le plus grand nombre s'insrit dans le cadre d'une logique de conception (design) universel qui justement se définit par
@@ -44,4 +48,6 @@ Néanmoins, il ne faut pas perdre de vue que l'accessibilité n'est pas le seul 
 [^1]: http://www.ergolab.net/articles/accessibilite-visuelle-web.php "Source: Ergolab"
 
 [^2]: http://www.info.univ-tours.fr/~antoine/documents_enseignement/IHM_CM_chapII.pdf " "Source: Jean-Yves Antoine, Université de Tours"
+
+[^3]: https://cognitique.wordpress.com/ergonomie-cognitive/ "Ergonomie Cognitive"
 
