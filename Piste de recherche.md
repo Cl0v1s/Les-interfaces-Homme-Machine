@@ -43,9 +43,8 @@
 
 ### III. Le futur ? 
 . Les supports mobiles
-1. siri
-2. Hololens et tout ce bazar (interface à utilisation naturelle)
-3. Mode d'interaction
+9. siri
+9. Hololens et tout ce bazar (interface à utilisation naturelle)
 
 ### Des ressources
 
@@ -77,12 +76,16 @@
 * http://blocnotes.iergo.fr/breve/motsetphrases/efficience/
 * https://fr.wikipedia.org/wiki/Cognitique
 
-
+* https://tel.archives-ouvertes.fr/tel-00984868/document
 * http://www.ergolab.net/articles/conception-centree-utilisateur.php
 * https://www.ims-bordeaux.fr/fr/recherche/groupes-recherche/22-cognitique/7-cognitique
 * http://www.info.univ-tours.fr/~antoine/documents_enseignement/IHM_CM_chapII.pdf
-* https://cognitique.wordpress.com/ergonomie-cognitive/
-* http://www.labo-g4.fr/v1//node/528
+* http://lidiagroup.org/papers/2010/usability_a_critical_analysis_and_a_taxonomy.pdf
+
+* http://pagesperso.lina.univ-nantes.fr/~prie-y/archives/VEILLE-2009-2012/2010/ihm-mobile/#_Toc263418069
+* https://www.macg.co/aapl/2015/01/brevets-une-interface-la-kinect-et-un-ecran-haut-parleur-86698
+* https://fr.wikipedia.org/wiki/Interface_neuronale_directe
+* https://fr.wikipedia.org/wiki/R%C3%A9alit%C3%A9_augment%C3%A9e
 
 Voir Laurence Nigay   
 Voir directrice de thèse également (Joelle Coutaz)

@@ -1,0 +1,3 @@
+# III. g. Cognitique et ergonomie
+
+Etant donné l'exposé précédant, la frontière entre ergonomie et cognitique peut sembler ténue. Néanmoins, il faut considérer que la cognitique est une discipline inter-disciplinaire, dont l'ergonomie est une des composantes importante, mais qui contrairement à celle-ci, va se limiter à l'étude des sujets informatiques, et de la relation entre ces derniers et l'utilisateur. 

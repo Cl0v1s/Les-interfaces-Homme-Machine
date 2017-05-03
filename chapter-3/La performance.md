@@ -15,6 +15,9 @@ On observe ainsi l'apparition de trois éléments intéressants sur le modèle d
 * L'efficience: Le lien entre moyens mis en oeuvre et résultats finaux. 
 
 En cognitique et plus généralement dans le cadre d'une démarche d'évaluation (ici de la performance d'une interface), l'analyse de la performance vise à étudier ces trois caractéristiques de manière quantitative et qualitative. 
+
+A noter qu'en plus de permettre une définition claire des éléments à considérer lors de l'étude d'une interface, cette vision de la performance rejoint fortement la définition d'utilisabilité cognitique présentée plus tôt (seule la satisfaction  n'étant pas prise en compte ici).
+
 Aussi nous allons nous pencher sur celles-ci dans ce qui va suivre.
 
 

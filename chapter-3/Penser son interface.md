@@ -23,7 +23,7 @@ Définie par son créateur Jean-Michel Truong comme étant
 
 Celle-ci vise à construire des interfaces homme-machine les plus performantes, présentant une meilleure sécurité et un meilleur confort d'usage pour l'utilisateur, tout ceci grâce à une approche pluri-disciplinaire à la croisée de l'informatique, des sciences sociales, de l'étude de la cognition humaine...[^4]
 
-Etant donné notre sujet, l'étude de cette discipline parait plus qu'à propos, aussi, nous allons dans la suite de ce document, les différentes caractéristiques des interfaces prises en compte et étudiée dans le cadre d'une conception d'IHM réflechie.
+Etant donné notre sujet, l'étude de cette discipline parait plus qu'à propos, aussi, nous allons dans la suite de ce document, présenter les différentes caractéristiques des interfaces prises en compte et étudiées dans le cadre d'une conception d'IHM réflechie:  performance, satisfaction, utilisabilité et acceptabilité.
 
 ----
 
