@@ -1,7 +1,7 @@
 # III. c. La satisfaction
 
-Néanmoins, et comme présenté plus haut, la simple considération de la performance d'une interface ne permet pas d'atteindre une utilisabilité maximale en vu de sa définition. 
-En effet, cette dernière prend également en compte la notion de satisfaction explicitée comme suit par la norme ISO 13407:
+Néanmoins, la simple considération de la performande d'une interface ne permet pas de justifier son usage et son imposition au sein d'un groupe d'utilisateur, ceux-ci étant également sensibles à un critère plus subjectif: la satisfaction.
+En effet, cette dernière prend également en compte la notion de satisfaction explicitée comme suit par la norme ISO 9241:
 
 > Absence d'inconfort et attitudes positives dans l'utilisation du produit.
 

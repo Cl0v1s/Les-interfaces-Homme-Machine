@@ -1,6 +1,6 @@
 ## III. b. 3. L'efficience
 
-Une autre caractéristique à prendre en compte afin d'estimer de la bonne performance d'une interface est son efficience. Contrairement à l'efficacité qui mesure si l'interface permet d'atteindre les résultats souhaité, l'efficience est définie par la norme ISO 13407 comme suit:
+Une autre caractéristique à prendre en compte afin d'estimer de la bonne performance d'une interface est son efficience. Contrairement à l'efficacité qui mesure si l'interface permet d'atteindre les résultats souhaité, l'efficience est définie par la norme ISO 9241 comme suit:
 
 > Rapport entre les ressources dépensées et la précision et le degré d'achèvement selon lesquels l'utilisateur atteint des objectifs spécifiés. 
 

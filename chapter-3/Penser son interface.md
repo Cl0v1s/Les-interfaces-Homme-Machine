@@ -19,7 +19,7 @@ Concrétement, il s'agit ici de produire l'interface la plus en adéquation avec
 La cognitique vise justement à atteindre cet objectif de conception en fonctionnant entre autre sur cette optique de conception centrée utilisateur.
 
 Définie par son créateur Jean-Michel Truong comme étant
-> [La] discipline scientifique et pratique technique, branche de l'informatique, qui a pour objet l'acquisition et la représentation formelle des connaissances et des modes de raisonnement, en vue de leur simulation à l'aide d'ordinateurs.[^3]
+> La discipline scientifique et pratique technique, branche de l'informatique, qui a pour objet l'acquisition et la représentation formelle des connaissances et des modes de raisonnement, en vue de leur simulation à l'aide d'ordinateurs.[^3]
 
 Celle-ci vise à construire des interfaces homme-machine les plus performantes, présentant une meilleure sécurité et un meilleur confort d'usage pour l'utilisateur, tout ceci grâce à une approche pluri-disciplinaire à la croisée de l'informatique, des sciences sociales, de l'étude de la cognition humaine...[^4]
 

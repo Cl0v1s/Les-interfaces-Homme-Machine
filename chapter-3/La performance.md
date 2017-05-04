@@ -2,7 +2,7 @@
 
 Plus haut dans cet exposé, durant la présentation de la cognitique, il a été exposé que celle-ci vise entre-autre à produire des interfaces Homme-Machine les plus performantes possibles. 
 
-Cette définition reste relativement vague tant que cette notion de performance n'a pas été définie. Aussi nous allons basé le déroulement de notre réflexion sur la définition proposée par Gilbert et son "Modèle de la performance" (1980).
+Cette définition reste relativement vague tant que cette notion de performance n'a pas été définie. Aussi nous allons baser le déroulement de notre réflexion sur la définition proposée par Gilbert et son "Modèle de la performance" (1980).
 
 Dans son modèle Gilbert définie la performance comme étant la résultante de la relation de trois éléments fortemment interdépendants qui se trouvent être les objectifs visés, les moyens mis en oeuvre et les résultats obtenus.
 

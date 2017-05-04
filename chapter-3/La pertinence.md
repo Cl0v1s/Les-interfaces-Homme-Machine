@@ -2,7 +2,7 @@
 
 Comme exposé plus haut, la pertinence, dans le cadre de l'étude de la performance, correspond à l'adéquation entre les moyens mis en oeuvre et les objectifs visés.  Concrétement, l'interface étudiée doit être capable de permettre à l'utilisateur d'être en mesure d'atteindre les objectifs qu'il souhaite réaliser en faisant usage de la machine. Il est donc nécessaire pour cela, durant la conception de l'interface de prendre en compte les caractéristiques de l'utilisateur, qu'elles soient physiques ou intelectuelles/mentales, de concevoir en fonction des moyens de l'utilisateur, de concevoir une interface adaptée à l'utilisateur.
 
-Il s'agit donc ici de construire une interface accessible, c'est à dire de concevoir ou de modifier l'interface de telle sorte que le plus grand nombre d'utilisateurs puisse accéder aux informations[^1], interagir avec la machine. 
+Il s'agit donc ici de construire une interface accessible, c'est à dire de penser ou de modifier l'interface de telle sorte que le plus grand nombre d'utilisateurs puisse accéder aux informations[^1], interagir avec la machine. 
 
 Le gouvernement Français (dans le cadre de la loi sur le handicap du 11 février 2005) propose une définition de l'accessibilité parfaitement applicable dans notre cas:
    > L’accessibilité requiert la mise en œuvre des éléments complémentaires, nécessaires à toute personne en incapacité permanente ou temporaire pour [...] accéder librement et en sécurité au cadre de vie ainsi qu’à tous les [...] services, produits et activités. 
@@ -26,7 +26,7 @@ D'autre part, il est également important de considérer les connaissances de l'
   
  Dans les faits, une interfaces présente différents niveaux d'accessibilité en fonction des possibilités d'interaction qu'elle offre à l'utilisateur handicapé (au sens commun) ou non. 
 
-De manière plus générale, cette idée de concevoir des interfaces accessibles pour le plus grand nombre s'insrit dans le cadre d'une logique de conception (design) universel qui justement se définit par
+De manière plus générale, cette idée de concevoir des interfaces accessibles pour le plus grand nombre s'insrit dans le cadre d'une logique de conception (design) universelle qui justement se définit par
 > La conception de tout [...] programme ou service qui puisse être utilisé par toute personne, sans nécessiter ni d'adaptation [...] spéciale, et ce quel que soient son sexe, son âge, sa situation ou son handicap."
     
 Cette façon de penser son interface fut primairement exprimée par l'architecte Ronald L. Mace puis théorisée par Selwyn Goldsmith, dans son livre Designing for the Disabled (concevoir pour les personnes à capacité réduite) paru en 1963.

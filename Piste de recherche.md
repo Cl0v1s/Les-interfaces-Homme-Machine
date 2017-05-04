@@ -48,46 +48,10 @@
 
 ### Des ressources
 
-* http://www.cc.gatech.edu/classes/AY2009/cs4470_fall/readings/myers-history-hci-tech.pdf
-*  the video “All The Widgets”
-*  Handbook of Human-Computer Interaction (Livre)
-*  https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro
-*  https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
-*  https://fr.wikipedia.org/wiki/Utilisabilit%C3%A9
-*  https://fr.wikipedia.org/wiki/Sciences_cognitives
-*  smith, irby, kimball, verplank, harlselm; designing the star user interface (bits n°4 1982 p.242-282)
-*  http://histoire.info.online.fr/gui.html
-*  http://www.physique.usherbrooke.ca/~afaribau/essai/
-*  *https://interstices.info/jcms/c_23015/50-ans-d-interaction-homme-machine-retours-vers-le-futur
-*  https://ihmmedia.wordpress.com/2007/10/04/evolution-des-ihm/
-*  http://www.nigelbevan.com/papers/HCI-Usability_standards.pdf
-*  https://en.wikipedia.org/wiki/Computer_terminal
-* https://fr.wikipedia.org/wiki/X_Window_System
-* https://en.wikipedia.org/wiki/Graphical_user_interface
-* https://en.wikipedia.org/wiki/Display_server
-*https://fr.wikipedia.org/wiki/Informatique#D.C3.A9veloppement_des_applications_informatiques
-* https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface#Augmentation_of_Human_Intellect_.28NLS.29
-* http://conseil.gdle.net/cabinet-ergonomie/conseil/ergonomie-au-travail/ergonomie-ergonome-poste-travail/ergonomie-performance.xhtml
-* https://www.iso.org/fr/news/2012/10/Ref1670.html
-* https://en.wikipedia.org/wiki/Universal_design
-* https://tel.archives-ouvertes.fr/tel-00984868/document
-* http://www.projet-ermitage.org/poitier95-crt.pdf
-* http://popups.ulg.ac.be/2031-4981/index.php?id=1151
-* http://blocnotes.iergo.fr/breve/motsetphrases/efficience/
-* https://fr.wikipedia.org/wiki/Cognitique
 
-* https://tel.archives-ouvertes.fr/tel-00984868/document
-* http://www.ergolab.net/articles/conception-centree-utilisateur.php
-* https://www.ims-bordeaux.fr/fr/recherche/groupes-recherche/22-cognitique/7-cognitique
-* http://www.info.univ-tours.fr/~antoine/documents_enseignement/IHM_CM_chapII.pdf
-* http://lidiagroup.org/papers/2010/usability_a_critical_analysis_and_a_taxonomy.pdf
-
-* http://pagesperso.lina.univ-nantes.fr/~prie-y/archives/VEILLE-2009-2012/2010/ihm-mobile/#_Toc263418069
-* https://www.macg.co/aapl/2015/01/brevets-une-interface-la-kinect-et-un-ecran-haut-parleur-86698
 * https://fr.wikipedia.org/wiki/Interface_neuronale_directe
 * https://fr.wikipedia.org/wiki/R%C3%A9alit%C3%A9_augment%C3%A9e
 * https://fr.wikipedia.org/wiki/Microsoft_HoloLens
-* http://www.zdnet.fr/actualites/realite-virtuelle-et-augmentee-un-marche-de-139-milliards-de-dollars-39849112.htm
 
 * https://fr.wikipedia.org/wiki/Interface_utilisateur_naturelle
 

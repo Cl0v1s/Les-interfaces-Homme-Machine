@@ -14,7 +14,7 @@ Ainsi, on constate le développement de tables tactiles, présentant un intérê
 
 Jusqu'à aujourd'hui l'écran tactile a été majoritairement considéré comme une évolution de dispositif de pointage. On n'utilise plus la souris, ou un stylo de pointage pour manipuler l'interface, mais directement ses doigts. 
 
-Néanmoins, on constate l'existence d'un certain nombre de recherche visant à ne plus considérer le tactile comme un dispositif de pointage mais bien comme une nouvelle façon de communiquer avec la machine, par exemple, dans le cas d'Apple à travers la reconnaissance de gestes réalisés à l'écran qui, une fois associés avec des actions permettent de les réaliser en un temps record (plus besoins de pointer et cliquer avec son doigt sur un menu présentant diverses options).
+Néanmoins, on constate l'existence d'un certain nombre de recherches visant à ne plus considérer le tactile comme un dispositif de pointage mais bien comme une nouvelle façon de communiquer avec la machine, par exemple, dans le cas d'Apple à travers la reconnaissance de gestes réalisés à l'écran qui, une fois associés avec des actions permettent de les réaliser en un temps record (plus besoins de pointer et cliquer avec son doigt sur un menu présentant diverses options).
 
 ![Brevet déposé par Apple visant à associer des gestes à des actions](http://pagesperso.lina.univ-nantes.fr/~prie-y/archives/VEILLE-2009-2012/2010/ihm-mobile/LivreBlanc_fichiers/image014.jpg)
  

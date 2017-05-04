@@ -8,7 +8,7 @@ Selon la norme ISO 9241, l'utilisabilité est décrite comme suit:
 
 De fait, il est possible de considérer qu'une interface est utilisable lorsque le manipulateur peut réaliser la tâche, de façon efficace, qu'il consomme un minimum de ressources pour le faire (c'est à dire avec efficience) et que le système est agréable à utiliser et donne satisfaction[^1].
 
-La cognitique vise à étudier l'utilisabilité d'une interface informatique afin de maximiser les résultats obtenus par l'utilisateur d'un point de vu qualitatif et quantitatif. Néanmoins, considérer les différentes caractéristiques sur lesquelles repose l'utilisabilité de manière indépendante ne présente pas grandement d'intérêt étant donné la forte interdépendance des celles-ci. 
+La cognitique vise à étudier l'utilisabilité d'une interface informatique afin de maximiser les résultats obtenus par l'utilisateur d'un point de vue qualitatif et quantitatif. Néanmoins, considérer les différentes caractéristiques sur lesquelles repose l'utilisabilité de manière indépendante ne présente pas grandement d'intérêt étant donné la forte interdépendance de celles-ci. 
 
 Aussi Alonso-Rios (2009) propose une taxonomie des différents attributs du concept d'utilisabilité d'un système à considérer de manière globale:
 
@@ -21,7 +21,7 @@ Aussi Alonso-Rios (2009) propose une taxonomie des différents attributs du conc
 
 ![Taxonomie de premier niveau proposée par Alonso-Rios](../res/usabilty.png)
 
-Cette taxonomie, excessivement complète rend bien compte de la complexité de la notion d'utilisabilité, qui se trouve être beaucoup plus importante que celle présentée par la norme ISO. 
+Cette taxonomie, excessivement complète (détaillée sur cinq niveaux hiérarchiques) rend bien compte de la complexité de la notion d'utilisabilité, qui se trouve être beaucoup plus importante que celle présentée par la norme ISO. 
 
 -----
 

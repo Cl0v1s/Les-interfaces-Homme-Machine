@@ -1,6 +1,6 @@
 ## IV. a. 2. Les mouvements 
 
-Précédemment nous avons parlé de la possibilité de reconnaître des gestes réalisés sur la surface d'un écran tactile, il faut savoir que la reconnaissance de gestes sans intermédiaire physique tel que l'écran est également possible.
+Précédemment nous avons parlé de la possibilité de reconnaître des gestes réalisés sur la surface d'un écran tactile, il faut savoir que la reconnaissance de gestes sans intermédiaire physique tel que l'écran, sans contact, est également possible.
 
 En effet, Microsoft, à travers son projet Natal exploité commercialement sous le nom de technologie Kinect a permis des avancées notables. En développant un dispositif senblable visuellement à une caméra et embarquant des capteurs de mouvements et de gestion de la profondeur, il est actuellement possible de permettre la manipulation d'une interface simplement en réalisant des gestes devant son dispositif.  
 

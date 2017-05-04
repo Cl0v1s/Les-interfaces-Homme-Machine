@@ -6,7 +6,7 @@ Si historiquement la conception d'interface homme-machine concernait essentielle
 * Entrée au clavier et à la souris
 * Accès stable au réseau
 
-Ce n'est plus forcémment le cas de nos jours, en effet, suite entre autre, à l'explosion du marché du téléphone intelligent (smartphone) et par là du nombre de personnes équipées (passage de 13,35% de la population équipée en 2013 à 58% en 2015[^1][^2]), les disparités entre les différents terminaux ne font que progresser, les différents appareils mobiles présentants différentes résolutions d'écrans, et des méthodes d'entrées plurielles.
+Ce n'est plus forcémment le cas de nos jours, en effet, suite entre autre, à l'explosion du marché du téléphone intelligent (smartphone) et par là du nombre de personnes équipées (passage de 13,35% de la population équipée en 2013 à 58% en 2015[^1][^2]), les disparités entre les différents terminaux ne font que progresser, les différents appareils mobiles présentant différentes résolutions d'écrans, et des méthodes d'entrées plurielles.
 
 Un défis majeur pour l'industrie se devine donc assez facilement: être en mesure de concevoir des interfaces adaptables sur un maximum de terminaux.  
 Il existes plusieurs solutions ayant déjà été appliquées permettant de répondre à cette problématique:
@@ -14,7 +14,8 @@ Il existes plusieurs solutions ayant déjà été appliquées permettant de rép
 * Concevoir une interface par catégorie d'appareil
 * Définir des points de ruptures associés à des tailles d'écran, qui permettent de ré-organiser l'interface en fonction du terminal (Interface adaptive).
 
-Néanmoins, ces dernières années, un nouveau mode de conception se développe. Le concept de conception fluide (soit Liquid Design). Il s'agit ici de faire en sorte que l'interface se réorganise d'elle-même dans l'espace qui lui est allouée, et ce à la manière d'un fluide[^3]. 
+Néanmoins, ces dernières années, un nouveau mode de conception se développe. Le concept de conception fluide (soit Liquid Design). Il s'agit ici de faire en sorte que l'interface se réorganise d'elle-même dans l'espace qui lui est allouée, et ce à la manière d'un fluide[^3]. Cette vision de l'interface rentre elle-même dans le cadre d'une philosophie de conception plus large, le "Responsive Design" ou conception réactive, basée sur ce principe d'adptation maximale qui ne sont base pas uniquement sur la technologie des points de rupture. 
+
  Concrétement, il s'agit de suivre un certain nombre de patrons de conceptions permettant d'atteindre cet objectif. Parmis ceux-ci, on va tout particulièrement relever le patron "grille"[^4]. 
  
  ![Patron grille. Les différentes cellules de la grille (en bleu) présentent une taille minimale. Les flêches grises représentent les capacités d'agrandissement des cellules en fonction de la taille de l'écran](https://getflywheel.com/wp-content/uploads/2016/08/css-grid-layouts-grid-diagram.jpg)
@@ -23,6 +24,8 @@ Néanmoins, ces dernières années, un nouveau mode de conception se développe.
  
  * [Le material design de Google](https://material.io/guidelines/material-design/introduction.html).
  * ["IOS Human interface d'Apple"](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
+
+L'objectif est donc pour les concepteurs d'interface et les développeurs de réussir à intégrer correctement ces pratiques afin de concevoir des interfaces les plus souples possibles assurant de fait un fonctionnement sur un maximum de supports. 
  
 -----
 

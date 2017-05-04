@@ -22,8 +22,7 @@ la manipulation de la machine est un moyen, sensé être plus productif, de remp
 
 * Les tâches que doit effectuer la machine changent également. Se contenter de réaliser des calculs mathématiques et de présenter des résultats n'est plus suffisant. En effet, l'informatique est de plus en plus utilisée pour des travaux de traitement de document, de stockage et de traitement d'information (systèmes de gestion de données).
 
-Comme annoncé plus haut, cette évolution et cette diversification des usages est intimement liée aux évolutions techniques et matérielles. En effet, on se trouve dans une situation de cercle vertueux, 
-Le progrès technique permet une progression des possibilités d'usage, qui attisent l'intérêt du monde du privé (entreprise, particuliers) qui encourage la production. Cette hausse de la production va entrainer une baisse de coûts des technologies utilisées (par effet d'économie d'echelle). Baisse des coûts qui entraine le développement d'une meilleur accessibilité financière.[^2] 
+Comme annoncé plus haut, cette évolution et cette diversification des usages est intimement liée aux évolutions techniques et matérielles. En effet, on se trouve dans une situation de cercle vertueux, le progrès technique permet une progression des possibilités d'usage, qui attisent l'intérêt du monde du privé (entreprise, particuliers) qui encourage la production. Cette hausse de la production va entrainer une baisse de coûts des technologies utilisées (par effet d'économie d'echelle). Baisse des coûts qui entraine le développement d'une meilleur accessibilité financière.[^2] 
 
 Cette accessibilité financière, n'aurait pas eu d'effets significatifs si elle n'avait pas été accompagné d'un développement des interfaces homme-machine. 
 
