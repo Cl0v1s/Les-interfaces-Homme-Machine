@@ -1,5 +1,8 @@
 {
     "plugins": [
         "image-captions", "bibtex-cite", "autocover"
-    ]
+    ],
+    "title": "Evolution des interfaces Homme-Machine",
+    "author": "Clovis Portron"
 }
+
