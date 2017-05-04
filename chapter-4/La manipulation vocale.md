@@ -1,0 +1,6 @@
+## IV. a. 5. La manipulation vocale 
+
+Une interface basée sur la manipulation vocale repose sur des principes de reconaissance, et de synthèse de la parole humaine.  
+Il s'agit ici pour la machine de reconnaître le langage naturel utilisé par l'homme et de le convertir en langage formel, manipulé par la machine. La tâche se trouvant être compliquée de par les différences existant entre ces types de langages, le langage formel étant non-ambigue, tandis que le sens d'un ensemble de mots peut varier en fonction de l'intonation exprimée par un humain, entre autre.
+
+S'il s'agit d'un domaine de recherche relativement ancien (les premières recherches dans le domaine remontent à 1952), on constate une relative stagnation du domaine à partir des années 80 jusqu'à la fin des années 2000, durant lesquelles l'intérêt pour ce mode d'interaction sera relancé sous l'impulsion d'Apple et de son logiciel Siri. Depuis un certain nombre de concurents ont vu le jour (Cortana de Microsoft, l'assistant vocal de Google, etc...) et étant donné l'importance de la recherche dans le domaine, il est fort à parier qu'à l'avenir ce type d'interface va gagner en popularité à mesure que ses performances vont croître. 

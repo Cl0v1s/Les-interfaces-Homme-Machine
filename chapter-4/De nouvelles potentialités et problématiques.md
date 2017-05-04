@@ -1,0 +1,3 @@
+# IV. b. De nouvelles potentialités et problématiques
+
+Si ces évolutions technologiques présentent un énorme potentiel d'évolution pour les IHM à l'avenir, elles sont tout de même accompagnées par un certain nombre de problématiques et de potentialités qu'il faudra être en mesure de surmonter et d'exploiter. Aussi nous allons présenter, dans la partie qui va suivre, quelques uns de ces questionnements.

@@ -12,4 +12,3 @@ Il est important de souligner qu'avec le développement des nouvelles technologi
 Ainsi, étant donné l'intéret substanciel de cette problématique, nous allons tâcher, tout au long de ce document, de présenter les diverses évolutions techniques ayant permis aux IHM de se démocratiser, les différents élements non-techniques permettant au domaine de continuer d'évoluer pour enfin aborder les problématiques auxquelles les IHM vont se confronter à l'avenir ainsi que leurs potentielles évolutions.
 
 
-

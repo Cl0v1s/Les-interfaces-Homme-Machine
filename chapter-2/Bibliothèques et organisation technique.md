@@ -23,7 +23,7 @@ X n'étant en soi qu'un ensemble de spécifications proposés par le MIT, il exi
 
 ### Les bibliothèques graphiques
 
-X ne gérant que l'affichage des fenêtres ainsi que les interactions avec celles-ci et non pas leur contenu, un certain nombre de bibliothèques graphiques de plus haut niveau ont été développé afin de faciliter la programmation du contenu de ces fenêtres. 
+X ne gérant que l'affichage des fenêtres ainsi que les interactions avec celles-ci et non pas leur contenu, un certain nombre de bibliothèques graphiques de plus haut niveau ont été développé afin de faciliter la programmation du contenu de ces fenêtres (composants d'interfaces). 
 
 On note ainsi l'apparition et le développement d'un empilement de bibliothèques permettant une abstraction et une uniformisation des interfaces toujours plus grandes.
 

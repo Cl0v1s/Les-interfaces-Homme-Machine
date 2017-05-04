@@ -86,6 +86,10 @@
 * https://www.macg.co/aapl/2015/01/brevets-une-interface-la-kinect-et-un-ecran-haut-parleur-86698
 * https://fr.wikipedia.org/wiki/Interface_neuronale_directe
 * https://fr.wikipedia.org/wiki/R%C3%A9alit%C3%A9_augment%C3%A9e
+* https://fr.wikipedia.org/wiki/Microsoft_HoloLens
+* http://www.zdnet.fr/actualites/realite-virtuelle-et-augmentee-un-marche-de-139-milliards-de-dollars-39849112.htm
+
+* https://fr.wikipedia.org/wiki/Interface_utilisateur_naturelle
 
 Voir Laurence Nigay   
 Voir directrice de thèse également (Joelle Coutaz)

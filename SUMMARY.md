@@ -22,3 +22,17 @@
     * [Utilité](chapter-3/Utilité.md)
     * [Acceptabilité](chapter-3/Acceptabilité.md)
     * [Cognitique et ergonomie](chapter-3/Cognitique et ergonomie.md)
+
+* [IV. Le futur des IHM](chapter-4/README.md)
+    * [Evolutions techniques](chapter-4/Evolutions techniques.md)
+        * [Le tactile](chapter-4/Le tactile.md)
+        * [Les mouvements](chapter-4/Les mouvements.md)
+        * [La réalité augmentée](chapter-4/La réalité augmentée.md)
+        * [Les interfaces neuronales](chapter-4/Les interfaces neuronales.md)
+        * [La manipulation vocale](chapter-4/La manipulation vocale.md)
+        * [Les mettables](chapter-4/Les mettables.md)
+    * [De nouvelles potentialités et problématiques](chapter-4/De nouvelles potentialités et problématiques.md)
+        * [La différenciation des supports](chapter-4/La différenciation des supports.md)
+        * [La démocratisation](chapter-4/La démocratisation.md)
+         
+* [Bibliographie](citations.md)
